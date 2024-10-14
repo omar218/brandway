@@ -1,0 +1,34 @@
+body{
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    justify-content: center;
+    margin-left: 40px;
+    font-size: 22px;
+}
+
+
+.text-brand{
+    justify-content: center;
+
+}
+
+h1{
+    justify-content: center;
+    margin: 10px;
+}
+
+h3{
+    justify-content: baseline;
+    text-align: center;
+    margin: 10px;
+}
+
+li{
+    justify-content: center;
+    font-size: 22px;
+    margin: 10px;
+}
+
